@@ -1,0 +1,86 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{77, 85}, {128, 88}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "variable_button_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Variable",
+          "uuid" : "5AB6763C-5B3D-49D8-B307-A77DC408785D",
+          "class" : "Button",
+          "name" : "variable_button",
+          "font_size" : 20
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{249, 112}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "variable_answer_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "D0AE03D7-2840-4F6B-8077-73F3D65D9DF5",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{55, 265}, {169, 80}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "global_variable_button_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Global Variable",
+          "uuid" : "4B5F7772-42F9-48BB-A4C2-9E9116A88A4A",
+          "class" : "Button",
+          "name" : "global_variable_button",
+          "font_size" : 20
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{249, 278}, {194, 52}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "global_variable_answer_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "465C11C4-1831-4751-8CB2-AFE5B6955229",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
